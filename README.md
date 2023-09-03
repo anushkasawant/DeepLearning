@@ -24,13 +24,17 @@ In our dataset ,since the Name column contained only 1299 observations , we opte
 The scope of a name gender identification project can extend to various domains and applications. Here are some examples of where the project can find valuable applications:
 
 Government and Policy
+
 Entertainment Industry
+
 Online Communities and Forums 
 
 
 
-![image](https://github.com/anushkasawant/DeepLearning/assets/48886989/722444b9-6a08-4e7f-9c3e-980827604d46)
-The field of name gender identification holds significant potential for future advancements and applications, driven by ongoing developments in natural language processing (NLP) and increasing awareness of gender-related issues. Here are some potential future scopes for the name gender identification project:
+![image](https://github.com/anushkasawant/DeepLearning/assets/48886989/722444b9-6a08-4e7f-9c3e-980827604d46)The field of name gender identification holds significant potential for future advancements and applications, driven by ongoing developments in natural language processing (NLP) and increasing awareness of gender-related issues. Here are some potential future scopes for the name gender identification project:
+
 Collaboration with LGBTQ+ Organizations
+
+
 Privacy and User Consent:
 
