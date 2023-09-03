@@ -12,7 +12,8 @@ Name gender identification is the process of using computers to predict whether 
 
 Develop a model that can accurately predict the gender (male or female) associated with a given name. The model should take a name as input and provide a label indicating the likelihood of the name belonging to each gender category.
 
-Data Augmentation![image](https://github.com/anushkasawant/DeepLearning/assets/48886989/8b934be3-7556-4dbd-9043-6ef5ad8f7ca3)
+![image](https://github.com/anushkasawant/DeepLearning/assets/48886989/cf1fcfb7-1fa1-48a7-a25f-65727e0c024d)
+
 
 Data augmentation in Natural Language Processing (NLP) is a technique used to artificially increase the size and diversity of a training dataset by creating variations of the original text data
 In our dataset ,since the Name column contained only 1299 observations , we opted for data augmentation.
@@ -20,7 +21,8 @@ In our dataset ,since the Name column contained only 1299 observations , we opte
 ![image](https://github.com/anushkasawant/DeepLearning/assets/48886989/9a8a82a1-d6f3-48a8-bace-859ff56d68a9)
 
 
-![image](https://github.com/anushkasawant/DeepLearning/assets/48886989/179a92e4-19a9-4c4b-a561-69d9aa9ff244)
+![image](https://github.com/anushkasawant/DeepLearning/assets/48886989/8b30df75-d6f6-40b6-8f8e-d82ef18bd025)
+
 
 The scope of a name gender identification project can extend to various domains and applications. Here are some examples of where the project can find valuable applications:
 
@@ -32,7 +34,8 @@ Online Communities and Forums
 
 
 
-![image](https://github.com/anushkasawant/DeepLearning/assets/48886989/722444b9-6a08-4e7f-9c3e-980827604d46)
+![image](https://github.com/anushkasawant/DeepLearning/assets/48886989/87e484d4-3143-42ca-a76e-969f3c20eb33)
+
 
 
 The field of name gender identification holds significant potential for future advancements and applications, driven by ongoing developments in natural language processing (NLP) and increasing awareness of gender-related issues. Here are some potential future scopes for the name gender identification project:
