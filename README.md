@@ -14,12 +14,3 @@ Develop a model that can accurately predict the gender (male or female) associat
 
 ![image](https://github.com/anushkasawant/DeepLearning/assets/48886989/a555af6c-9478-4722-a24e-040e6cfcdd5d)
 
-![image](https://github.com/anushkasawant/DeepLearning/assets/48886989/8cf4d575-852a-40b4-8442-1b16ddde360d)
-
-Import Libraries
-We first must import the necessary libraries to work with any data and build a solution. Our project will use Numpy, Pandas, Matplotlib, Seaborn, Scikit-Learn, TensorFlow, nltk and Keras. 
-
-
-![image](https://github.com/anushkasawant/DeepLearning/assets/48886989/64601edc-e62a-4b25-a8dc-5f256d2cf8b5)
-
-
