@@ -7,7 +7,8 @@ What is Name gender identification?
 
 Name gender identification is the process of using computers to predict whether a given name belongs to a male or female person. This is done using Natural Language Processing (NLP) techniques to analyze patterns in names and their associated genders.
 
-![image](https://github.com/anushkasawant/DeepLearning/assets/48886989/7829de80-3a44-4a71-aa9a-7a7d638e362a)
+![image](https://github.com/anushkasawant/DeepLearning/assets/48886989/a32ecae0-f33a-43a0-b460-59d83b3a6180)
+
 
 Develop a model that can accurately predict the gender (male or female) associated with a given name. The model should take a name as input and provide a label indicating the likelihood of the name belonging to each gender category.
 
@@ -31,7 +32,10 @@ Online Communities and Forums
 
 
 
-![image](https://github.com/anushkasawant/DeepLearning/assets/48886989/722444b9-6a08-4e7f-9c3e-980827604d46)The field of name gender identification holds significant potential for future advancements and applications, driven by ongoing developments in natural language processing (NLP) and increasing awareness of gender-related issues. Here are some potential future scopes for the name gender identification project:
+![image](https://github.com/anushkasawant/DeepLearning/assets/48886989/722444b9-6a08-4e7f-9c3e-980827604d46)
+
+
+The field of name gender identification holds significant potential for future advancements and applications, driven by ongoing developments in natural language processing (NLP) and increasing awareness of gender-related issues. Here are some potential future scopes for the name gender identification project:
 
 Collaboration with LGBTQ+ Organizations
 
