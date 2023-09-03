@@ -13,17 +13,13 @@ Develop a model that can accurately predict the gender (male or female) associat
 
 
 ![image](https://github.com/anushkasawant/DeepLearning/assets/48886989/a555af6c-9478-4722-a24e-040e6cfcdd5d)
-The work pipeline involved in this project is as follows:
-Import libraries.
-Load the dataset.
-Exploratory data analysis.
-Data Augmentation
-Encoding the labels.
-Count vectorization of predictor text values.
-Splitting the dataset into training and testing sets.
-Building models using logistic regression, naive Bayes, and XGBoost
-Comparison of results of the above models.
-Building an LSTM model.
-Building an CNN model.
+
 ![image](https://github.com/anushkasawant/DeepLearning/assets/48886989/8cf4d575-852a-40b4-8442-1b16ddde360d)
+
+Import Libraries
+We first must import the necessary libraries to work with any data and build a solution. Our project will use Numpy, Pandas, Matplotlib, Seaborn, Scikit-Learn, TensorFlow, nltk and Keras. 
+
+
+![image](https://github.com/anushkasawant/DeepLearning/assets/48886989/64601edc-e62a-4b25-a8dc-5f256d2cf8b5)
+
 
